@@ -10,4 +10,4 @@ Van den Borne: een camera systeem om foto's van gewassen te maken op willekeurig
 - building an app/platfrom that 1) allows the farmer to pinpoint locations that he/she wants photographed and 2) makes the camera take pictures when the machine passes these locations
 - collecting all photographs at a central location combined with additional information such as date, plot ID, time, crop, weathers, etc.
 
-Find the full idea on [Google Drive](https://docs.google.com/document/d/12SfnumPdTdqToLzTXJ9ppxzw8s2wOXEPjD0vakotmFY/edit#)(Dutch).
+Find the full idea on [Google Drive](https://docs.google.com/document/d/12SfnumPdTdqToLzTXJ9ppxzw8s2wOXEPjD0vakotmFY/edit#) (Dutch).
