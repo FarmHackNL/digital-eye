@@ -1,6 +1,8 @@
 # digital-eye
 Van den Borne: een camera systeem om foto's van gewassen te maken op willekeurige locaties
 
+https://farmhacknl.github.io/digital-eye/WebContent/
+
 **The farmer's problem**
 - has a lot of data (maps, satellite/drone images, sensors) but lacks *visual* information about his/her crops
 - collecting visual information (photographs) is a manual - and therefore error prone - process
