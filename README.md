@@ -11,3 +11,18 @@ Van den Borne: een camera systeem om foto's van gewassen te maken op willekeurig
 - collecting all photographs at a central location combined with additional information such as date, plot ID, time, crop, weathers, etc.
 
 Find the full idea on [Google Drive](https://docs.google.com/document/d/12SfnumPdTdqToLzTXJ9ppxzw8s2wOXEPjD0vakotmFY/edit#) (Dutch).
+
+Part 1. Simulate Photograph Creation 
+This HTML file combined with Javascript creates a Polygon at given GEOLocations.
+A marker is placed at the edge of the Polygon and moves slowly in a given direction.
+Within the Polygon a user can place a Point Of Interest which is represented by a circle.
+If the marker crosses this circle it will write a quick alert which says it has taken a photograph.
+
+Part 2. Simulate Photograph Usage
+The Html file contains simple GUI options to select photo's from photo archive (called north and south). 
+A route can be selected on which dots with photographs are displayed green.
+The user can select such a dot and browse throught the photographs (enlarged by clicking on the photograph)    
+Via arrow keys the user can direct the car inside the selected landscape. 
+
+Note: this project has won the first price during the first official FarmHack hackaton in NL!
+More information on this hackaton can be found here: http://www.farmhack.nl/challenge/datavisualisatie-bij-een-pieperboer/
